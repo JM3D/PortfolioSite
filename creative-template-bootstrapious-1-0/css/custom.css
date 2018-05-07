@@ -5,3 +5,8 @@ body {
     background-color: rgba(52, 59, 66, 0.56);
 }
 */
+
+.progress-bar {
+  background: -webkit-linear-gradient(left, #7a9ebe 0%, #146fbe 100%);
+  /* Chrome10-25,Safari5.1-6 */
+}
