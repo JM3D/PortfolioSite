@@ -1,7 +1,9 @@
 /* your styles go here */
 
-/*
-body {
-    background-color: rgba(52, 59, 66, 0.56);
+.list {
+    color: rgb(85, 85, 85)!important;
 }
-*/
+
+.skill-title {
+    color: rgb(85, 85, 85)!important;
+}
