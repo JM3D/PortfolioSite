@@ -7,3 +7,8 @@
 .skill-title {
     color: rgb(85, 85, 85)!important;
 }
+
+.credit {
+    position: fixed;
+    bottom: 0;
+}
